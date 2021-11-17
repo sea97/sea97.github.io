@@ -54,11 +54,11 @@ sort: 1
 
 |포스터<img width=100/>|공연명<img width=300/>|공연기간/회장<img width=300/>|배역<img width=150/>|스틸사진<img width=100/>|기타<img width=100/>|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|<img src="https://sea97.github.io/stage/images/p_2014_2.jpg" width=100/>|루팡 3세 - 왕비의 목걸이를 훔쳐라 - <br>팬시・가이!|다카라즈카 대극장<br>2015년1월1일 ~ 2월2일<br>도쿄 다카라즈카 극장<br>2015년2월20일 ~ 3월22일|바르나브<br>루팡 3세[^9]|<img src="https://sea97.github.io/stage/images/p_2014_2.jpg" width=100/>|첫 신인공연 주연|
+|<img src="https://sea97.github.io/stage/images/p_2014_2.jpg" width=100/>|루팡 3세 - 왕비의 목걸이를 훔쳐라 - <br>팬시・가이!|다카라즈카 대극장<br>2015년1월1일 ~ 2월2일<br>도쿄 다카라즈카 극장<br>2015년2월20일 ~ 3월22일|바르나브<br>루팡 3세[^9]|<img src="https://sea97.github.io/stage/images/p_2014_2.jpg" width=100/>|첫 신인공연<br>주연|
 |<img src="https://sea97.github.io/stage/images/p_2014_2.jpg" width=100/>|알 카포네 - 흉터지 얼굴에 감춰진 진실 - |우메다예술극장 시어터 드라마시티<br>2015년5월9일 ~ 5월17일<br>아카사카ACT시어터<br>2015년5월26일 ~ 6월1일|벤 헥터|<img src="https://sea97.github.io/stage/images/p_2014_2.jpg" width=100/>||
 |<img src="https://sea97.github.io/stage/images/p_2014_2.jpg" width=100/>|별이 만나는 하룻밤<br>La Esmeralda|다카라즈카 대극장<br>2015년7월17일 ~ 8월17일<br>도쿄 다카라즈카 극장<br>2015년9월4일 ~ 10월11일|시오타(청년) <br>겐타[^10]|<img src="https://sea97.github.io/stage/images/p_2014_2.jpg" width=100/>||
-|<img src="https://sea97.github.io/stage/images/p_2014_2.jpg" width=100/>|슬픔의 코르도바<br>La Esmeralda|전국투어[^11]|훼리페 마르틴|<img src="https://sea97.github.io/stage/images/p_2014_2.jpg" width=100/>|첫 전국투어 참가|
-|<img src="https://sea97.github.io/stage/images/p_2014_2.jpg" width=100/>|다카라즈카스페셜2015 －New Century，Next Dream－ |우메다예술극장 메인홀<br>2015년12월19일 ~ 12월20일||<img src="https://sea97.github.io/stage/images/p_2014_2.jpg" width=100/>|첫 다카라즈카 스페셜 출연|
+|<img src="https://sea97.github.io/stage/images/p_2014_2.jpg" width=100/>|슬픔의 코르도바<br>La Esmeralda|전국투어[^11]|훼리페 마르틴|<img src="https://sea97.github.io/stage/images/p_2014_2.jpg" width=100/>||
+|<img src="https://sea97.github.io/stage/images/p_2014_2.jpg" width=100/>|다카라즈카스페셜2015 －New Century，Next Dream－ |우메다예술극장 메인홀<br>2015년12월19일 ~ 12월20일||<img src="https://sea97.github.io/stage/images/p_2014_2.jpg" width=100/>|첫 다카라즈카<br>스페셜 출연|
 
 [^9]:신인공연 / 본역 사기리 세이나
 [^10]:신인공연 / 본역 노조미 후토

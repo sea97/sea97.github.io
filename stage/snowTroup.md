@@ -4,6 +4,9 @@ sort: 1
 
 # 설조
 
+|Name|Value|
+|----|---------|
+|<img width=200/>|<img width=500/>|
 
 ## 2011
 
